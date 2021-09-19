@@ -5,3 +5,5 @@ Logs from my quest.
 
 
 >Made for devs of mods only.
+
+>If you're a regular person I would recommend leaving. 
